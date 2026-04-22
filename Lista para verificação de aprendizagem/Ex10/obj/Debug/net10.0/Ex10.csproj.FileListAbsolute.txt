@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\bin\Debug\net10.0\Ex10.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\bin\Debug\net10.0\Ex10.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\bin\Debug\net10.0\Ex10.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\bin\Debug\net10.0\Ex10.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\bin\Debug\net10.0\Ex10.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\obj\Debug\net10.0\Ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\obj\Debug\net10.0\Ex10.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\obj\Debug\net10.0\Ex10.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\obj\Debug\net10.0\Ex10.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\obj\Debug\net10.0\Ex10.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\obj\Debug\net10.0\refint\Ex10.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\obj\Debug\net10.0\Ex10.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\obj\Debug\net10.0\Ex10.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex10\obj\Debug\net10.0\ref\Ex10.dll

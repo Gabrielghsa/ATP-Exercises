@@ -1,0 +1,28 @@
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.AssemblyInfoInputs.cache
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.AssemblyInfo.cs
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\bin\Debug\net10.0\caixa d'água.exe
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\bin\Debug\net10.0\caixa d'água.deps.json
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\bin\Debug\net10.0\caixa d'água.runtimeconfig.json
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\bin\Debug\net10.0\caixa d'água.dll
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\bin\Debug\net10.0\caixa d'água.pdb
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.dll
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\refint\caixa d'água.dll
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.pdb
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.genruntimeconfig.cache
+C:\Users\ghass\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\ref\caixa d'água.dll
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\bin\Debug\net10.0\caixa d'água.exe
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\bin\Debug\net10.0\caixa d'água.deps.json
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\bin\Debug\net10.0\caixa d'água.runtimeconfig.json
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\bin\Debug\net10.0\caixa d'água.dll
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\bin\Debug\net10.0\caixa d'água.pdb
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.AssemblyInfoInputs.cache
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.AssemblyInfo.cs
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.csproj.CoreCompileInputs.cache
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.dll
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\refint\caixa d'água.dll
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.pdb
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\caixa d'água.genruntimeconfig.cache
+c:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\caixa d'água\obj\Debug\net10.0\ref\caixa d'água.dll

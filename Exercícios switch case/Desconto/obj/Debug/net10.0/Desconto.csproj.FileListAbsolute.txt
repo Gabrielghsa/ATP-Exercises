@@ -1,0 +1,14 @@
+C:\Users\ghass\Exercícios switch case\Desconto\obj\Debug\net10.0\Desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Exercícios switch case\Desconto\obj\Debug\net10.0\Desconto.AssemblyInfoInputs.cache
+C:\Users\ghass\Exercícios switch case\Desconto\obj\Debug\net10.0\Desconto.AssemblyInfo.cs
+C:\Users\ghass\Exercícios switch case\Desconto\obj\Debug\net10.0\Desconto.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Exercícios switch case\Desconto\bin\Debug\net10.0\Desconto.exe
+C:\Users\ghass\Exercícios switch case\Desconto\bin\Debug\net10.0\Desconto.deps.json
+C:\Users\ghass\Exercícios switch case\Desconto\bin\Debug\net10.0\Desconto.runtimeconfig.json
+C:\Users\ghass\Exercícios switch case\Desconto\bin\Debug\net10.0\Desconto.dll
+C:\Users\ghass\Exercícios switch case\Desconto\bin\Debug\net10.0\Desconto.pdb
+C:\Users\ghass\Exercícios switch case\Desconto\obj\Debug\net10.0\Desconto.dll
+C:\Users\ghass\Exercícios switch case\Desconto\obj\Debug\net10.0\refint\Desconto.dll
+C:\Users\ghass\Exercícios switch case\Desconto\obj\Debug\net10.0\Desconto.pdb
+C:\Users\ghass\Exercícios switch case\Desconto\obj\Debug\net10.0\Desconto.genruntimeconfig.cache
+C:\Users\ghass\Exercícios switch case\Desconto\obj\Debug\net10.0\ref\Desconto.dll

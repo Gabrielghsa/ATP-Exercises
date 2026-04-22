@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\bin\Debug\net10.0\Quadrado.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\bin\Debug\net10.0\Quadrado.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\bin\Debug\net10.0\Quadrado.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\bin\Debug\net10.0\Quadrado.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\bin\Debug\net10.0\Quadrado.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\obj\Debug\net10.0\Quadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\obj\Debug\net10.0\Quadrado.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\obj\Debug\net10.0\Quadrado.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\obj\Debug\net10.0\Quadrado.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\obj\Debug\net10.0\Quadrado.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\obj\Debug\net10.0\refint\Quadrado.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\obj\Debug\net10.0\Quadrado.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\obj\Debug\net10.0\Quadrado.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Quadrado\obj\Debug\net10.0\ref\Quadrado.dll

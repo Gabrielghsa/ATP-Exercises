@@ -1,0 +1,14 @@
+C:\Users\ghass\Exercícios condicionais ATP\Origem\bin\Debug\net10.0\Origem.exe
+C:\Users\ghass\Exercícios condicionais ATP\Origem\bin\Debug\net10.0\Origem.deps.json
+C:\Users\ghass\Exercícios condicionais ATP\Origem\bin\Debug\net10.0\Origem.runtimeconfig.json
+C:\Users\ghass\Exercícios condicionais ATP\Origem\bin\Debug\net10.0\Origem.dll
+C:\Users\ghass\Exercícios condicionais ATP\Origem\bin\Debug\net10.0\Origem.pdb
+C:\Users\ghass\Exercícios condicionais ATP\Origem\obj\Debug\net10.0\Origem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Exercícios condicionais ATP\Origem\obj\Debug\net10.0\Origem.AssemblyInfoInputs.cache
+C:\Users\ghass\Exercícios condicionais ATP\Origem\obj\Debug\net10.0\Origem.AssemblyInfo.cs
+C:\Users\ghass\Exercícios condicionais ATP\Origem\obj\Debug\net10.0\Origem.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Exercícios condicionais ATP\Origem\obj\Debug\net10.0\Origem.dll
+C:\Users\ghass\Exercícios condicionais ATP\Origem\obj\Debug\net10.0\refint\Origem.dll
+C:\Users\ghass\Exercícios condicionais ATP\Origem\obj\Debug\net10.0\Origem.pdb
+C:\Users\ghass\Exercícios condicionais ATP\Origem\obj\Debug\net10.0\Origem.genruntimeconfig.cache
+C:\Users\ghass\Exercícios condicionais ATP\Origem\obj\Debug\net10.0\ref\Origem.dll

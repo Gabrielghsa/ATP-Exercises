@@ -1,0 +1,14 @@
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\obj\Debug\net10.0\horas extras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\obj\Debug\net10.0\horas extras.AssemblyInfoInputs.cache
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\obj\Debug\net10.0\horas extras.AssemblyInfo.cs
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\obj\Debug\net10.0\horas extras.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\bin\Debug\net10.0\horas extras.exe
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\bin\Debug\net10.0\horas extras.deps.json
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\bin\Debug\net10.0\horas extras.runtimeconfig.json
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\bin\Debug\net10.0\horas extras.dll
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\bin\Debug\net10.0\horas extras.pdb
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\obj\Debug\net10.0\horas extras.dll
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\obj\Debug\net10.0\refint\horas extras.dll
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\obj\Debug\net10.0\horas extras.pdb
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\obj\Debug\net10.0\horas extras.genruntimeconfig.cache
+C:\Users\ghass\Exercícios de laboratório ATP\horas extras\obj\Debug\net10.0\ref\horas extras.dll

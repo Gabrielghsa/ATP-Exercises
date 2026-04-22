@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\bin\Debug\net10.0\ex03-mês correspondente.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\bin\Debug\net10.0\ex03-mês correspondente.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\bin\Debug\net10.0\ex03-mês correspondente.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\bin\Debug\net10.0\ex03-mês correspondente.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\bin\Debug\net10.0\ex03-mês correspondente.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\obj\Debug\net10.0\ex03-mês correspondente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\obj\Debug\net10.0\ex03-mês correspondente.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\obj\Debug\net10.0\ex03-mês correspondente.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\obj\Debug\net10.0\ex03-mês correspondente.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\obj\Debug\net10.0\ex03-mês correspondente.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\obj\Debug\net10.0\refint\ex03-mês correspondente.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\obj\Debug\net10.0\ex03-mês correspondente.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\obj\Debug\net10.0\ex03-mês correspondente.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex03-mês correspondente\obj\Debug\net10.0\ref\ex03-mês correspondente.dll

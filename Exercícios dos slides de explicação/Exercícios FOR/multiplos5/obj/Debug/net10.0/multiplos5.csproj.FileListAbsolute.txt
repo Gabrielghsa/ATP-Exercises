@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\bin\Debug\net10.0\multiplos5.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\bin\Debug\net10.0\multiplos5.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\bin\Debug\net10.0\multiplos5.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\bin\Debug\net10.0\multiplos5.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\bin\Debug\net10.0\multiplos5.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\obj\Debug\net10.0\multiplos5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\obj\Debug\net10.0\multiplos5.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\obj\Debug\net10.0\multiplos5.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\obj\Debug\net10.0\multiplos5.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\obj\Debug\net10.0\multiplos5.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\obj\Debug\net10.0\refint\multiplos5.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\obj\Debug\net10.0\multiplos5.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\obj\Debug\net10.0\multiplos5.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\multiplos5\obj\Debug\net10.0\ref\multiplos5.dll

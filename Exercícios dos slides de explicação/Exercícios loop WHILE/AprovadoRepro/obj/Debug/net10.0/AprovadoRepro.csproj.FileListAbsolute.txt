@@ -1,0 +1,14 @@
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\bin\Debug\net10.0\AprovadoRepro.exe
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\bin\Debug\net10.0\AprovadoRepro.deps.json
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\bin\Debug\net10.0\AprovadoRepro.runtimeconfig.json
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\bin\Debug\net10.0\AprovadoRepro.dll
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\bin\Debug\net10.0\AprovadoRepro.pdb
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\obj\Debug\net10.0\AprovadoRepro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\obj\Debug\net10.0\AprovadoRepro.AssemblyInfoInputs.cache
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\obj\Debug\net10.0\AprovadoRepro.AssemblyInfo.cs
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\obj\Debug\net10.0\AprovadoRepro.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\obj\Debug\net10.0\AprovadoRepro.dll
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\obj\Debug\net10.0\refint\AprovadoRepro.dll
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\obj\Debug\net10.0\AprovadoRepro.pdb
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\obj\Debug\net10.0\AprovadoRepro.genruntimeconfig.cache
+C:\Users\ghass\Exercícios condicionais ATP\AprovadoRepro\obj\Debug\net10.0\ref\AprovadoRepro.dll

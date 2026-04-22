@@ -1,0 +1,14 @@
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\obj\Debug\net10.0\IdadeNadador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\obj\Debug\net10.0\IdadeNadador.AssemblyInfoInputs.cache
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\obj\Debug\net10.0\IdadeNadador.AssemblyInfo.cs
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\obj\Debug\net10.0\IdadeNadador.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\bin\Debug\net10.0\IdadeNadador.exe
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\bin\Debug\net10.0\IdadeNadador.deps.json
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\bin\Debug\net10.0\IdadeNadador.runtimeconfig.json
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\bin\Debug\net10.0\IdadeNadador.dll
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\bin\Debug\net10.0\IdadeNadador.pdb
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\obj\Debug\net10.0\IdadeNadador.dll
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\obj\Debug\net10.0\refint\IdadeNadador.dll
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\obj\Debug\net10.0\IdadeNadador.pdb
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\obj\Debug\net10.0\IdadeNadador.genruntimeconfig.cache
+C:\Users\ghass\Exercícios condicionais ATP\IdadeNadador\obj\Debug\net10.0\ref\IdadeNadador.dll

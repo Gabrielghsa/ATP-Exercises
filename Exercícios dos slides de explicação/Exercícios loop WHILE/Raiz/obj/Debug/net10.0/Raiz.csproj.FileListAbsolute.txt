@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\bin\Debug\net10.0\Raiz.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\bin\Debug\net10.0\Raiz.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\bin\Debug\net10.0\Raiz.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\bin\Debug\net10.0\Raiz.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\bin\Debug\net10.0\Raiz.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\obj\Debug\net10.0\Raiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\obj\Debug\net10.0\Raiz.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\obj\Debug\net10.0\Raiz.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\obj\Debug\net10.0\Raiz.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\obj\Debug\net10.0\Raiz.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\obj\Debug\net10.0\refint\Raiz.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\obj\Debug\net10.0\Raiz.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\obj\Debug\net10.0\Raiz.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios dos slides de explicação\Exercícios loop WHILE\Raiz\obj\Debug\net10.0\ref\Raiz.dll

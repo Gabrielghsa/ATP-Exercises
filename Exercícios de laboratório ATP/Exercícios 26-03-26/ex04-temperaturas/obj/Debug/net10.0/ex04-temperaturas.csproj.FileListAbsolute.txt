@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\obj\Debug\net10.0\ex04-temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\obj\Debug\net10.0\ex04-temperaturas.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\obj\Debug\net10.0\ex04-temperaturas.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\obj\Debug\net10.0\ex04-temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\bin\Debug\net10.0\ex04-temperaturas.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\bin\Debug\net10.0\ex04-temperaturas.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\bin\Debug\net10.0\ex04-temperaturas.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\bin\Debug\net10.0\ex04-temperaturas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\bin\Debug\net10.0\ex04-temperaturas.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\obj\Debug\net10.0\ex04-temperaturas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\obj\Debug\net10.0\refint\ex04-temperaturas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\obj\Debug\net10.0\ex04-temperaturas.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\obj\Debug\net10.0\ex04-temperaturas.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex04-temperaturas\obj\Debug\net10.0\ref\ex04-temperaturas.dll

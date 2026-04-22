@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\obj\Debug\net10.0\intervalo10-20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\obj\Debug\net10.0\intervalo10-20.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\obj\Debug\net10.0\intervalo10-20.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\obj\Debug\net10.0\intervalo10-20.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\bin\Debug\net10.0\intervalo10-20.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\bin\Debug\net10.0\intervalo10-20.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\bin\Debug\net10.0\intervalo10-20.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\bin\Debug\net10.0\intervalo10-20.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\bin\Debug\net10.0\intervalo10-20.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\obj\Debug\net10.0\intervalo10-20.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\obj\Debug\net10.0\refint\intervalo10-20.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\obj\Debug\net10.0\intervalo10-20.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\obj\Debug\net10.0\intervalo10-20.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\intervalo10-20\obj\Debug\net10.0\ref\intervalo10-20.dll

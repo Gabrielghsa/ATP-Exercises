@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\bin\Debug\net10.0\maiores18.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\bin\Debug\net10.0\maiores18.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\bin\Debug\net10.0\maiores18.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\bin\Debug\net10.0\maiores18.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\bin\Debug\net10.0\maiores18.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\obj\Debug\net10.0\maiores18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\obj\Debug\net10.0\maiores18.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\obj\Debug\net10.0\maiores18.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\obj\Debug\net10.0\maiores18.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\obj\Debug\net10.0\maiores18.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\obj\Debug\net10.0\refint\maiores18.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\obj\Debug\net10.0\maiores18.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\obj\Debug\net10.0\maiores18.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios repetições\maiores18\obj\Debug\net10.0\ref\maiores18.dll

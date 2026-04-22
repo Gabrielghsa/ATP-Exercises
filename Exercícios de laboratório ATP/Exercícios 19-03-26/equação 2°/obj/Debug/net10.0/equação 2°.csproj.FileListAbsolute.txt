@@ -1,0 +1,14 @@
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\obj\Debug\net10.0\equação 2°.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\obj\Debug\net10.0\equação 2°.AssemblyInfoInputs.cache
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\obj\Debug\net10.0\equação 2°.AssemblyInfo.cs
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\obj\Debug\net10.0\equação 2°.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\bin\Debug\net10.0\equação 2°.exe
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\bin\Debug\net10.0\equação 2°.deps.json
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\bin\Debug\net10.0\equação 2°.runtimeconfig.json
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\bin\Debug\net10.0\equação 2°.dll
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\bin\Debug\net10.0\equação 2°.pdb
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\obj\Debug\net10.0\equação 2°.dll
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\obj\Debug\net10.0\refint\equação 2°.dll
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\obj\Debug\net10.0\equação 2°.pdb
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\obj\Debug\net10.0\equação 2°.genruntimeconfig.cache
+C:\Users\ghass\Exercícios de laboratório ATP\equação 2°\obj\Debug\net10.0\ref\equação 2°.dll

@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\bin\Debug\net10.0\4 números.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\bin\Debug\net10.0\4 números.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\bin\Debug\net10.0\4 números.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\bin\Debug\net10.0\4 números.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\bin\Debug\net10.0\4 números.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\obj\Debug\net10.0\4 números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\obj\Debug\net10.0\4 números.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\obj\Debug\net10.0\4 números.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\obj\Debug\net10.0\4 números.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\obj\Debug\net10.0\4 números.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\obj\Debug\net10.0\refint\4 números.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\obj\Debug\net10.0\4 números.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\obj\Debug\net10.0\4 números.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\4 números\obj\Debug\net10.0\ref\4 números.dll

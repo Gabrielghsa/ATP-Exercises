@@ -1,0 +1,14 @@
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\bin\Debug\net10.0\Exercícios iniciais ATP.exe
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\bin\Debug\net10.0\Exercícios iniciais ATP.deps.json
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\bin\Debug\net10.0\Exercícios iniciais ATP.runtimeconfig.json
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\bin\Debug\net10.0\Exercícios iniciais ATP.dll
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\bin\Debug\net10.0\Exercícios iniciais ATP.pdb
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\obj\Debug\net10.0\Exercícios iniciais ATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\obj\Debug\net10.0\Exercícios iniciais ATP.AssemblyInfoInputs.cache
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\obj\Debug\net10.0\Exercícios iniciais ATP.AssemblyInfo.cs
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\obj\Debug\net10.0\Exercícios iniciais ATP.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\obj\Debug\net10.0\Exercícios iniciais ATP.dll
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\obj\Debug\net10.0\refint\Exercícios iniciais ATP.dll
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\obj\Debug\net10.0\Exercícios iniciais ATP.pdb
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\obj\Debug\net10.0\Exercícios iniciais ATP.genruntimeconfig.cache
+C:\Users\ghass\Exercícios iniciais ATP\Loja de bicicletas\obj\Debug\net10.0\ref\Exercícios iniciais ATP.dll

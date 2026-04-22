@@ -1,0 +1,14 @@
+C:\Users\ghass\Exercícios switch case\Código animal\obj\Debug\net10.0\Código animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Exercícios switch case\Código animal\obj\Debug\net10.0\Código animal.AssemblyInfoInputs.cache
+C:\Users\ghass\Exercícios switch case\Código animal\obj\Debug\net10.0\Código animal.AssemblyInfo.cs
+C:\Users\ghass\Exercícios switch case\Código animal\obj\Debug\net10.0\Código animal.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Exercícios switch case\Código animal\bin\Debug\net10.0\Código animal.exe
+C:\Users\ghass\Exercícios switch case\Código animal\bin\Debug\net10.0\Código animal.deps.json
+C:\Users\ghass\Exercícios switch case\Código animal\bin\Debug\net10.0\Código animal.runtimeconfig.json
+C:\Users\ghass\Exercícios switch case\Código animal\bin\Debug\net10.0\Código animal.dll
+C:\Users\ghass\Exercícios switch case\Código animal\bin\Debug\net10.0\Código animal.pdb
+C:\Users\ghass\Exercícios switch case\Código animal\obj\Debug\net10.0\Código animal.dll
+C:\Users\ghass\Exercícios switch case\Código animal\obj\Debug\net10.0\refint\Código animal.dll
+C:\Users\ghass\Exercícios switch case\Código animal\obj\Debug\net10.0\Código animal.pdb
+C:\Users\ghass\Exercícios switch case\Código animal\obj\Debug\net10.0\Código animal.genruntimeconfig.cache
+C:\Users\ghass\Exercícios switch case\Código animal\obj\Debug\net10.0\ref\Código animal.dll

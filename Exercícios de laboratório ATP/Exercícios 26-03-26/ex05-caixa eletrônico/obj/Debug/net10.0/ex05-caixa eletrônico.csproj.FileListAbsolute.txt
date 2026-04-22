@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\bin\Debug\net10.0\ex05-caixa eletrônico.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\bin\Debug\net10.0\ex05-caixa eletrônico.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\bin\Debug\net10.0\ex05-caixa eletrônico.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\bin\Debug\net10.0\ex05-caixa eletrônico.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\bin\Debug\net10.0\ex05-caixa eletrônico.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\obj\Debug\net10.0\ex05-caixa eletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\obj\Debug\net10.0\ex05-caixa eletrônico.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\obj\Debug\net10.0\ex05-caixa eletrônico.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\obj\Debug\net10.0\ex05-caixa eletrônico.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\obj\Debug\net10.0\ex05-caixa eletrônico.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\obj\Debug\net10.0\refint\ex05-caixa eletrônico.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\obj\Debug\net10.0\ex05-caixa eletrônico.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\obj\Debug\net10.0\ex05-caixa eletrônico.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex05-caixa eletrônico\obj\Debug\net10.0\ref\ex05-caixa eletrônico.dll

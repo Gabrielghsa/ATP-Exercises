@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\bin\Debug\net10.0\ex02-dias da semana.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\bin\Debug\net10.0\ex02-dias da semana.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\bin\Debug\net10.0\ex02-dias da semana.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\bin\Debug\net10.0\ex02-dias da semana.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\bin\Debug\net10.0\ex02-dias da semana.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\obj\Debug\net10.0\ex02-dias da semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\obj\Debug\net10.0\ex02-dias da semana.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\obj\Debug\net10.0\ex02-dias da semana.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\obj\Debug\net10.0\ex02-dias da semana.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\obj\Debug\net10.0\ex02-dias da semana.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\obj\Debug\net10.0\refint\ex02-dias da semana.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\obj\Debug\net10.0\ex02-dias da semana.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\obj\Debug\net10.0\ex02-dias da semana.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercícios 26-03-26\ex02-dias da semana\obj\Debug\net10.0\ref\ex02-dias da semana.dll

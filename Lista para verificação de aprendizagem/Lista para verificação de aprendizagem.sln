@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex01-nomeDataIdade", "Ex01-nomeDataIdade\Ex01-nomeDataIdade.csproj", "{561145D8-26E8-73D9-1327-3A7FA4C2A54F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{561145D8-26E8-73D9-1327-3A7FA4C2A54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561145D8-26E8-73D9-1327-3A7FA4C2A54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561145D8-26E8-73D9-1327-3A7FA4C2A54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561145D8-26E8-73D9-1327-3A7FA4C2A54F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCC69240-F6BB-425B-89D6-945312662EBE}
+	EndGlobalSection
+EndGlobal

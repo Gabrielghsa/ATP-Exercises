@@ -1,0 +1,14 @@
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\bin\Debug\net10.0\SomaAndRaiz.exe
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\bin\Debug\net10.0\SomaAndRaiz.deps.json
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\bin\Debug\net10.0\SomaAndRaiz.runtimeconfig.json
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\bin\Debug\net10.0\SomaAndRaiz.dll
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\bin\Debug\net10.0\SomaAndRaiz.pdb
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\obj\Debug\net10.0\SomaAndRaiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\obj\Debug\net10.0\SomaAndRaiz.AssemblyInfoInputs.cache
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\obj\Debug\net10.0\SomaAndRaiz.AssemblyInfo.cs
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\obj\Debug\net10.0\SomaAndRaiz.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\obj\Debug\net10.0\SomaAndRaiz.dll
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\obj\Debug\net10.0\refint\SomaAndRaiz.dll
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\obj\Debug\net10.0\SomaAndRaiz.pdb
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\obj\Debug\net10.0\SomaAndRaiz.genruntimeconfig.cache
+C:\Users\ghass\Exercícios condicionais ATP\SomaAndRaiz\obj\Debug\net10.0\ref\SomaAndRaiz.dll

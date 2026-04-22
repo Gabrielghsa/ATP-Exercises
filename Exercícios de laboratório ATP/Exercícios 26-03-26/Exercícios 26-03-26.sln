@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 números", "4 números\4 números.csproj", "{8756DCCC-B482-63C9-48BD-C04E2A9CA367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02-dias da semana", "ex02-dias da semana\ex02-dias da semana.csproj", "{B52978F6-D1E5-FFE3-FCDD-C17D5DD83C3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex03-mês correspondente", "ex03-mês correspondente\ex03-mês correspondente.csproj", "{97FB030C-F8C0-61AD-3A30-340745DC0EE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex04-temperaturas", "ex04-temperaturas\ex04-temperaturas.csproj", "{7BF23903-46CD-FE8F-F349-7FF8657BCAFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex05-caixa eletrônico", "ex05-caixa eletrônico\ex05-caixa eletrônico.csproj", "{7C099F8B-45DE-812F-A317-3B5CF737CC62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex06-calculadora", "ex06-calculadora\ex06-calculadora.csproj", "{1F4FB54F-2968-7577-C55B-F8CFE8790D46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8756DCCC-B482-63C9-48BD-C04E2A9CA367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8756DCCC-B482-63C9-48BD-C04E2A9CA367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8756DCCC-B482-63C9-48BD-C04E2A9CA367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8756DCCC-B482-63C9-48BD-C04E2A9CA367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52978F6-D1E5-FFE3-FCDD-C17D5DD83C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52978F6-D1E5-FFE3-FCDD-C17D5DD83C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52978F6-D1E5-FFE3-FCDD-C17D5DD83C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52978F6-D1E5-FFE3-FCDD-C17D5DD83C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97FB030C-F8C0-61AD-3A30-340745DC0EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FB030C-F8C0-61AD-3A30-340745DC0EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FB030C-F8C0-61AD-3A30-340745DC0EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FB030C-F8C0-61AD-3A30-340745DC0EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF23903-46CD-FE8F-F349-7FF8657BCAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF23903-46CD-FE8F-F349-7FF8657BCAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF23903-46CD-FE8F-F349-7FF8657BCAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF23903-46CD-FE8F-F349-7FF8657BCAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C099F8B-45DE-812F-A317-3B5CF737CC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C099F8B-45DE-812F-A317-3B5CF737CC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C099F8B-45DE-812F-A317-3B5CF737CC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C099F8B-45DE-812F-A317-3B5CF737CC62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F4FB54F-2968-7577-C55B-F8CFE8790D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4FB54F-2968-7577-C55B-F8CFE8790D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4FB54F-2968-7577-C55B-F8CFE8790D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4FB54F-2968-7577-C55B-F8CFE8790D46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F787FCA4-A915-46C9-8769-638DAE7038E1}
+	EndGlobalSection
+EndGlobal

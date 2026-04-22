@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\obj\Debug\net10.0\Descontos Salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\obj\Debug\net10.0\Descontos Salário.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\obj\Debug\net10.0\Descontos Salário.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\obj\Debug\net10.0\Descontos Salário.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\bin\Debug\net10.0\Descontos Salário.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\bin\Debug\net10.0\Descontos Salário.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\bin\Debug\net10.0\Descontos Salário.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\bin\Debug\net10.0\Descontos Salário.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\bin\Debug\net10.0\Descontos Salário.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\obj\Debug\net10.0\Descontos Salário.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\obj\Debug\net10.0\refint\Descontos Salário.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\obj\Debug\net10.0\Descontos Salário.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\obj\Debug\net10.0\Descontos Salário.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios iniciais ATP\Descontos Salário\obj\Debug\net10.0\ref\Descontos Salário.dll

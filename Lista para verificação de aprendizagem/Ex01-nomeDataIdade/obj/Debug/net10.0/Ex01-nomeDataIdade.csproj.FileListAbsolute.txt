@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\bin\Debug\net10.0\Ex01-nomeDataIdade.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\bin\Debug\net10.0\Ex01-nomeDataIdade.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\bin\Debug\net10.0\Ex01-nomeDataIdade.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\bin\Debug\net10.0\Ex01-nomeDataIdade.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\bin\Debug\net10.0\Ex01-nomeDataIdade.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\obj\Debug\net10.0\Ex01-nomeDataIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\obj\Debug\net10.0\Ex01-nomeDataIdade.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\obj\Debug\net10.0\Ex01-nomeDataIdade.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\obj\Debug\net10.0\Ex01-nomeDataIdade.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\obj\Debug\net10.0\Ex01-nomeDataIdade.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\obj\Debug\net10.0\refint\Ex01-nomeDataIdade.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\obj\Debug\net10.0\Ex01-nomeDataIdade.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\obj\Debug\net10.0\Ex01-nomeDataIdade.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex01-nomeDataIdade\obj\Debug\net10.0\ref\Ex01-nomeDataIdade.dll

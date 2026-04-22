@@ -1,0 +1,14 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\bin\Debug\net10.0\Ex09.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\bin\Debug\net10.0\Ex09.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\bin\Debug\net10.0\Ex09.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\bin\Debug\net10.0\Ex09.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\bin\Debug\net10.0\Ex09.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\obj\Debug\net10.0\Ex09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\obj\Debug\net10.0\Ex09.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\obj\Debug\net10.0\Ex09.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\obj\Debug\net10.0\Ex09.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\obj\Debug\net10.0\Ex09.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\obj\Debug\net10.0\refint\Ex09.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\obj\Debug\net10.0\Ex09.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\obj\Debug\net10.0\Ex09.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\Ex09\obj\Debug\net10.0\ref\Ex09.dll
