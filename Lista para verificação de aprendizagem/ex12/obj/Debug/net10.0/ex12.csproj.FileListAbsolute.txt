@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\bin\Debug\net10.0\ex12.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\bin\Debug\net10.0\ex12.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\bin\Debug\net10.0\ex12.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\bin\Debug\net10.0\ex12.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\bin\Debug\net10.0\ex12.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\obj\Debug\net10.0\ex12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\obj\Debug\net10.0\ex12.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\obj\Debug\net10.0\ex12.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\obj\Debug\net10.0\ex12.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\obj\Debug\net10.0\ex12.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\obj\Debug\net10.0\ex12.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\obj\Debug\net10.0\refint\ex12.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\obj\Debug\net10.0\ex12.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\obj\Debug\net10.0\ex12.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Lista para verificação de aprendizagem\ex12\obj\Debug\net10.0\ref\ex12.dll

@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\bin\Debug\net10.0\multiplicaçõesSucessivas.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\bin\Debug\net10.0\multiplicaçõesSucessivas.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\bin\Debug\net10.0\multiplicaçõesSucessivas.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\bin\Debug\net10.0\multiplicaçõesSucessivas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\bin\Debug\net10.0\multiplicaçõesSucessivas.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\obj\Debug\net10.0\multiplicaçõesSucessivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\obj\Debug\net10.0\multiplicaçõesSucessivas.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\obj\Debug\net10.0\multiplicaçõesSucessivas.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\obj\Debug\net10.0\multiplicaçõesSucessivas.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\obj\Debug\net10.0\multiplicaçõesSucessivas.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\obj\Debug\net10.0\multiplicaçõesSucessivas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\obj\Debug\net10.0\refint\multiplicaçõesSucessivas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\obj\Debug\net10.0\multiplicaçõesSucessivas.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\obj\Debug\net10.0\multiplicaçõesSucessivas.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multiplicaçõesSucessivas\obj\Debug\net10.0\ref\multiplicaçõesSucessivas.dll

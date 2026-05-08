@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\bin\Debug\net10.0\multas.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\bin\Debug\net10.0\multas.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\bin\Debug\net10.0\multas.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\bin\Debug\net10.0\multas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\bin\Debug\net10.0\multas.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\obj\Debug\net10.0\multas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\obj\Debug\net10.0\multas.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\obj\Debug\net10.0\multas.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\obj\Debug\net10.0\multas.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\obj\Debug\net10.0\multas.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\obj\Debug\net10.0\multas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\obj\Debug\net10.0\refint\multas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\obj\Debug\net10.0\multas.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\obj\Debug\net10.0\multas.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\multas\obj\Debug\net10.0\ref\multas.dll

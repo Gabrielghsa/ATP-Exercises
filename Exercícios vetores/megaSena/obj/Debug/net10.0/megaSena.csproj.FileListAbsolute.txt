@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\bin\Debug\net10.0\megaSena.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\bin\Debug\net10.0\megaSena.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\bin\Debug\net10.0\megaSena.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\bin\Debug\net10.0\megaSena.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\bin\Debug\net10.0\megaSena.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\obj\Debug\net10.0\megaSena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\obj\Debug\net10.0\megaSena.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\obj\Debug\net10.0\megaSena.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\obj\Debug\net10.0\megaSena.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\obj\Debug\net10.0\megaSena.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\obj\Debug\net10.0\megaSena.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\obj\Debug\net10.0\refint\megaSena.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\obj\Debug\net10.0\megaSena.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\obj\Debug\net10.0\megaSena.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\megaSena\obj\Debug\net10.0\ref\megaSena.dll

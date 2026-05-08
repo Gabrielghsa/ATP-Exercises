@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex01-nomeDataIdade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+580c16c3d89f2eae8c2bad6d132d3ff8c3e91519")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex01-nomeDataIdade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex01-nomeDataIdade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

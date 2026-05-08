@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\bin\Debug\net10.0\mediaTurma.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\bin\Debug\net10.0\mediaTurma.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\bin\Debug\net10.0\mediaTurma.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\bin\Debug\net10.0\mediaTurma.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\bin\Debug\net10.0\mediaTurma.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\obj\Debug\net10.0\mediaTurma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\obj\Debug\net10.0\mediaTurma.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\obj\Debug\net10.0\mediaTurma.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\obj\Debug\net10.0\mediaTurma.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\obj\Debug\net10.0\mediaTurma.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\obj\Debug\net10.0\mediaTurma.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\obj\Debug\net10.0\refint\mediaTurma.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\obj\Debug\net10.0\mediaTurma.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\obj\Debug\net10.0\mediaTurma.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaTurma\obj\Debug\net10.0\ref\mediaTurma.dll

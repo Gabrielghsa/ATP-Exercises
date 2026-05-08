@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\obj\Debug\net10.0\posiParesImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\obj\Debug\net10.0\posiParesImpares.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\obj\Debug\net10.0\posiParesImpares.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\obj\Debug\net10.0\posiParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\obj\Debug\net10.0\posiParesImpares.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\bin\Debug\net10.0\posiParesImpares.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\bin\Debug\net10.0\posiParesImpares.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\bin\Debug\net10.0\posiParesImpares.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\bin\Debug\net10.0\posiParesImpares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\bin\Debug\net10.0\posiParesImpares.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\obj\Debug\net10.0\posiParesImpares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\obj\Debug\net10.0\refint\posiParesImpares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\obj\Debug\net10.0\posiParesImpares.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\obj\Debug\net10.0\posiParesImpares.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\posiParesImpares\obj\Debug\net10.0\ref\posiParesImpares.dll

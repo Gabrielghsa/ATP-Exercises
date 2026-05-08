@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\obj\Debug\net10.0\nacionalidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\obj\Debug\net10.0\nacionalidades.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\obj\Debug\net10.0\nacionalidades.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\obj\Debug\net10.0\nacionalidades.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\obj\Debug\net10.0\nacionalidades.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\bin\Debug\net10.0\nacionalidades.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\bin\Debug\net10.0\nacionalidades.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\bin\Debug\net10.0\nacionalidades.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\bin\Debug\net10.0\nacionalidades.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\bin\Debug\net10.0\nacionalidades.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\obj\Debug\net10.0\nacionalidades.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\obj\Debug\net10.0\refint\nacionalidades.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\obj\Debug\net10.0\nacionalidades.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\obj\Debug\net10.0\nacionalidades.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\nacionalidades\obj\Debug\net10.0\ref\nacionalidades.dll

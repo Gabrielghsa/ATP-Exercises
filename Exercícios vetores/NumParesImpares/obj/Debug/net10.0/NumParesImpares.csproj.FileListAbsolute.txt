@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\obj\Debug\net10.0\NumParesImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\obj\Debug\net10.0\NumParesImpares.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\obj\Debug\net10.0\NumParesImpares.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\obj\Debug\net10.0\NumParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\obj\Debug\net10.0\NumParesImpares.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\bin\Debug\net10.0\NumParesImpares.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\bin\Debug\net10.0\NumParesImpares.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\bin\Debug\net10.0\NumParesImpares.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\bin\Debug\net10.0\NumParesImpares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\bin\Debug\net10.0\NumParesImpares.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\obj\Debug\net10.0\NumParesImpares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\obj\Debug\net10.0\refint\NumParesImpares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\obj\Debug\net10.0\NumParesImpares.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\obj\Debug\net10.0\NumParesImpares.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\NumParesImpares\obj\Debug\net10.0\ref\NumParesImpares.dll

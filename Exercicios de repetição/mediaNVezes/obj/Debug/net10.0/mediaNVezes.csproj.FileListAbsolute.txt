@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\bin\Debug\net10.0\mediaNVezes.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\bin\Debug\net10.0\mediaNVezes.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\bin\Debug\net10.0\mediaNVezes.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\bin\Debug\net10.0\mediaNVezes.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\bin\Debug\net10.0\mediaNVezes.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\obj\Debug\net10.0\mediaNVezes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\obj\Debug\net10.0\mediaNVezes.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\obj\Debug\net10.0\mediaNVezes.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\obj\Debug\net10.0\mediaNVezes.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\obj\Debug\net10.0\mediaNVezes.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\obj\Debug\net10.0\mediaNVezes.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\obj\Debug\net10.0\refint\mediaNVezes.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\obj\Debug\net10.0\mediaNVezes.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\obj\Debug\net10.0\mediaNVezes.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\mediaNVezes\obj\Debug\net10.0\ref\mediaNVezes.dll

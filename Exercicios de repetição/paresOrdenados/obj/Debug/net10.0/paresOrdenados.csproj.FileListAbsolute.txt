@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\bin\Debug\net10.0\paresOrdenados.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\bin\Debug\net10.0\paresOrdenados.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\bin\Debug\net10.0\paresOrdenados.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\bin\Debug\net10.0\paresOrdenados.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\bin\Debug\net10.0\paresOrdenados.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\obj\Debug\net10.0\paresOrdenados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\obj\Debug\net10.0\paresOrdenados.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\obj\Debug\net10.0\paresOrdenados.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\obj\Debug\net10.0\paresOrdenados.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\obj\Debug\net10.0\paresOrdenados.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\obj\Debug\net10.0\paresOrdenados.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\obj\Debug\net10.0\refint\paresOrdenados.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\obj\Debug\net10.0\paresOrdenados.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\obj\Debug\net10.0\paresOrdenados.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\paresOrdenados\obj\Debug\net10.0\ref\paresOrdenados.dll

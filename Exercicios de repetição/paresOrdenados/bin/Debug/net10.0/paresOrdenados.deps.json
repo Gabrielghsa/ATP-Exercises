@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "paresOrdenados/1.0.0": {
+        "runtime": {
+          "paresOrdenados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "paresOrdenados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

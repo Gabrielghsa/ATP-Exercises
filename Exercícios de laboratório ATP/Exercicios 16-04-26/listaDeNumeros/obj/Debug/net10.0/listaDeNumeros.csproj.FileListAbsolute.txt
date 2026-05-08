@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\bin\Debug\net10.0\listaDeNumeros.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\bin\Debug\net10.0\listaDeNumeros.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\bin\Debug\net10.0\listaDeNumeros.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\bin\Debug\net10.0\listaDeNumeros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\bin\Debug\net10.0\listaDeNumeros.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\obj\Debug\net10.0\listaDeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\obj\Debug\net10.0\listaDeNumeros.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\obj\Debug\net10.0\listaDeNumeros.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\obj\Debug\net10.0\listaDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\obj\Debug\net10.0\listaDeNumeros.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\obj\Debug\net10.0\listaDeNumeros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\obj\Debug\net10.0\refint\listaDeNumeros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\obj\Debug\net10.0\listaDeNumeros.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\obj\Debug\net10.0\listaDeNumeros.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\listaDeNumeros\obj\Debug\net10.0\ref\listaDeNumeros.dll

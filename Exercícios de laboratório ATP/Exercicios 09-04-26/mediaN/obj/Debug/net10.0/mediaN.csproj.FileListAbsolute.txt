@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\bin\Debug\net10.0\mediaN.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\bin\Debug\net10.0\mediaN.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\bin\Debug\net10.0\mediaN.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\bin\Debug\net10.0\mediaN.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\bin\Debug\net10.0\mediaN.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\obj\Debug\net10.0\mediaN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\obj\Debug\net10.0\mediaN.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\obj\Debug\net10.0\mediaN.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\obj\Debug\net10.0\mediaN.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\obj\Debug\net10.0\mediaN.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\obj\Debug\net10.0\mediaN.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\obj\Debug\net10.0\refint\mediaN.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\obj\Debug\net10.0\mediaN.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\obj\Debug\net10.0\mediaN.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\mediaN\obj\Debug\net10.0\ref\mediaN.dll

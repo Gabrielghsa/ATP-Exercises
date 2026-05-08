@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\bin\Debug\net10.0\númerosPrimos.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\bin\Debug\net10.0\númerosPrimos.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\bin\Debug\net10.0\númerosPrimos.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\bin\Debug\net10.0\númerosPrimos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\bin\Debug\net10.0\númerosPrimos.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\obj\Debug\net10.0\númerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\obj\Debug\net10.0\númerosPrimos.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\obj\Debug\net10.0\númerosPrimos.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\obj\Debug\net10.0\númerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\obj\Debug\net10.0\númerosPrimos.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\obj\Debug\net10.0\númerosPrimos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\obj\Debug\net10.0\refint\númerosPrimos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\obj\Debug\net10.0\númerosPrimos.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\obj\Debug\net10.0\númerosPrimos.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\númerosPrimos\obj\Debug\net10.0\ref\númerosPrimos.dll

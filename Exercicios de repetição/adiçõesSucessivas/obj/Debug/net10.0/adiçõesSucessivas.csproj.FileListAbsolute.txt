@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\bin\Debug\net10.0\adiçõesSucessivas.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\bin\Debug\net10.0\adiçõesSucessivas.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\bin\Debug\net10.0\adiçõesSucessivas.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\bin\Debug\net10.0\adiçõesSucessivas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\bin\Debug\net10.0\adiçõesSucessivas.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\obj\Debug\net10.0\adiçõesSucessivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\obj\Debug\net10.0\adiçõesSucessivas.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\obj\Debug\net10.0\adiçõesSucessivas.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\obj\Debug\net10.0\adiçõesSucessivas.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\obj\Debug\net10.0\adiçõesSucessivas.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\obj\Debug\net10.0\adiçõesSucessivas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\obj\Debug\net10.0\refint\adiçõesSucessivas.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\obj\Debug\net10.0\adiçõesSucessivas.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\obj\Debug\net10.0\adiçõesSucessivas.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\adiçõesSucessivas\obj\Debug\net10.0\ref\adiçõesSucessivas.dll

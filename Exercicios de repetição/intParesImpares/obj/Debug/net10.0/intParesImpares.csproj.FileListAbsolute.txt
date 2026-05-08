@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\bin\Debug\net10.0\intParesImpares.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\bin\Debug\net10.0\intParesImpares.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\bin\Debug\net10.0\intParesImpares.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\bin\Debug\net10.0\intParesImpares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\bin\Debug\net10.0\intParesImpares.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\obj\Debug\net10.0\intParesImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\obj\Debug\net10.0\intParesImpares.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\obj\Debug\net10.0\intParesImpares.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\obj\Debug\net10.0\intParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\obj\Debug\net10.0\intParesImpares.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\obj\Debug\net10.0\intParesImpares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\obj\Debug\net10.0\refint\intParesImpares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\obj\Debug\net10.0\intParesImpares.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\obj\Debug\net10.0\intParesImpares.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\intParesImpares\obj\Debug\net10.0\ref\intParesImpares.dll

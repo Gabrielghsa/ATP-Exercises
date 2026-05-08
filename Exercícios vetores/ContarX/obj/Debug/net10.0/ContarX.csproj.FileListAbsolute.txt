@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\obj\Debug\net10.0\ContarX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\obj\Debug\net10.0\ContarX.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\obj\Debug\net10.0\ContarX.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\obj\Debug\net10.0\ContarX.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\obj\Debug\net10.0\ContarX.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\bin\Debug\net10.0\ContarX.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\bin\Debug\net10.0\ContarX.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\bin\Debug\net10.0\ContarX.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\bin\Debug\net10.0\ContarX.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\bin\Debug\net10.0\ContarX.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\obj\Debug\net10.0\ContarX.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\obj\Debug\net10.0\refint\ContarX.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\obj\Debug\net10.0\ContarX.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\obj\Debug\net10.0\ContarX.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\ContarX\obj\Debug\net10.0\ref\ContarX.dll

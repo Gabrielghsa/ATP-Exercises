@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\bin\Debug\net10.0\dobroPares.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\bin\Debug\net10.0\dobroPares.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\bin\Debug\net10.0\dobroPares.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\bin\Debug\net10.0\dobroPares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\bin\Debug\net10.0\dobroPares.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\obj\Debug\net10.0\dobroPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\obj\Debug\net10.0\dobroPares.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\obj\Debug\net10.0\dobroPares.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\obj\Debug\net10.0\dobroPares.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\obj\Debug\net10.0\dobroPares.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\obj\Debug\net10.0\dobroPares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\obj\Debug\net10.0\refint\dobroPares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\obj\Debug\net10.0\dobroPares.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\obj\Debug\net10.0\dobroPares.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\dobroPares\obj\Debug\net10.0\ref\dobroPares.dll

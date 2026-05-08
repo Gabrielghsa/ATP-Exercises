@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\obj\Debug\net10.0\vParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\obj\Debug\net10.0\vParImpar.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\obj\Debug\net10.0\vParImpar.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\obj\Debug\net10.0\vParImpar.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\obj\Debug\net10.0\vParImpar.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\bin\Debug\net10.0\vParImpar.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\bin\Debug\net10.0\vParImpar.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\bin\Debug\net10.0\vParImpar.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\bin\Debug\net10.0\vParImpar.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\bin\Debug\net10.0\vParImpar.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\obj\Debug\net10.0\vParImpar.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\obj\Debug\net10.0\refint\vParImpar.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\obj\Debug\net10.0\vParImpar.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\obj\Debug\net10.0\vParImpar.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vParImpar\obj\Debug\net10.0\ref\vParImpar.dll

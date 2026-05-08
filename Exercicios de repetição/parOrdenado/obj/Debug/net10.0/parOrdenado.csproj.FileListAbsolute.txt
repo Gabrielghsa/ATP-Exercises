@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\obj\Debug\net10.0\parOrdenado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\obj\Debug\net10.0\parOrdenado.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\obj\Debug\net10.0\parOrdenado.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\obj\Debug\net10.0\parOrdenado.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\obj\Debug\net10.0\parOrdenado.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\bin\Debug\net10.0\parOrdenado.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\bin\Debug\net10.0\parOrdenado.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\bin\Debug\net10.0\parOrdenado.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\bin\Debug\net10.0\parOrdenado.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\bin\Debug\net10.0\parOrdenado.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\obj\Debug\net10.0\parOrdenado.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\obj\Debug\net10.0\refint\parOrdenado.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\obj\Debug\net10.0\parOrdenado.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\obj\Debug\net10.0\parOrdenado.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\parOrdenado\obj\Debug\net10.0\ref\parOrdenado.dll

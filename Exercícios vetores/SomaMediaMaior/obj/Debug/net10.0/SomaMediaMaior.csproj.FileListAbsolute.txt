@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\bin\Debug\net10.0\SomaMediaMaior.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\bin\Debug\net10.0\SomaMediaMaior.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\bin\Debug\net10.0\SomaMediaMaior.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\bin\Debug\net10.0\SomaMediaMaior.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\bin\Debug\net10.0\SomaMediaMaior.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\obj\Debug\net10.0\SomaMediaMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\obj\Debug\net10.0\SomaMediaMaior.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\obj\Debug\net10.0\SomaMediaMaior.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\obj\Debug\net10.0\SomaMediaMaior.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\obj\Debug\net10.0\SomaMediaMaior.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\obj\Debug\net10.0\SomaMediaMaior.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\obj\Debug\net10.0\refint\SomaMediaMaior.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\obj\Debug\net10.0\SomaMediaMaior.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\obj\Debug\net10.0\SomaMediaMaior.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\SomaMediaMaior\obj\Debug\net10.0\ref\SomaMediaMaior.dll

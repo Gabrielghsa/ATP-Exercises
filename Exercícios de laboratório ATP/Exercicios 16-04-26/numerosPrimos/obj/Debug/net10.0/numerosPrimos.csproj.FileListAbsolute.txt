@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\bin\Debug\net10.0\numerosPrimos.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\bin\Debug\net10.0\numerosPrimos.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\bin\Debug\net10.0\numerosPrimos.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\bin\Debug\net10.0\numerosPrimos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\bin\Debug\net10.0\numerosPrimos.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\obj\Debug\net10.0\numerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\obj\Debug\net10.0\numerosPrimos.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\obj\Debug\net10.0\numerosPrimos.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\obj\Debug\net10.0\numerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\obj\Debug\net10.0\numerosPrimos.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\obj\Debug\net10.0\numerosPrimos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\obj\Debug\net10.0\refint\numerosPrimos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\obj\Debug\net10.0\numerosPrimos.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\obj\Debug\net10.0\numerosPrimos.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 16-04-26\numerosPrimos\obj\Debug\net10.0\ref\numerosPrimos.dll

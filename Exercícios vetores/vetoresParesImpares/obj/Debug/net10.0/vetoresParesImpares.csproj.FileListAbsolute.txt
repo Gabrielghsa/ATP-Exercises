@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\bin\Debug\net10.0\vetoresParesImpares.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\bin\Debug\net10.0\vetoresParesImpares.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\bin\Debug\net10.0\vetoresParesImpares.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\bin\Debug\net10.0\vetoresParesImpares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\bin\Debug\net10.0\vetoresParesImpares.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\obj\Debug\net10.0\vetoresParesImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\obj\Debug\net10.0\vetoresParesImpares.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\obj\Debug\net10.0\vetoresParesImpares.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\obj\Debug\net10.0\vetoresParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\obj\Debug\net10.0\vetoresParesImpares.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\obj\Debug\net10.0\vetoresParesImpares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\obj\Debug\net10.0\refint\vetoresParesImpares.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\obj\Debug\net10.0\vetoresParesImpares.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\obj\Debug\net10.0\vetoresParesImpares.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios vetores\vetoresParesImpares\obj\Debug\net10.0\ref\vetoresParesImpares.dll

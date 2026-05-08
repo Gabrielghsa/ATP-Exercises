@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\obj\Debug\net10.0\parOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\obj\Debug\net10.0\parOuImpar.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\obj\Debug\net10.0\parOuImpar.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\obj\Debug\net10.0\parOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\obj\Debug\net10.0\parOuImpar.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\bin\Debug\net10.0\parOuImpar.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\bin\Debug\net10.0\parOuImpar.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\bin\Debug\net10.0\parOuImpar.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\bin\Debug\net10.0\parOuImpar.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\bin\Debug\net10.0\parOuImpar.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\obj\Debug\net10.0\parOuImpar.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\obj\Debug\net10.0\refint\parOuImpar.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\obj\Debug\net10.0\parOuImpar.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\obj\Debug\net10.0\parOuImpar.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\parOuImpar\obj\Debug\net10.0\ref\parOuImpar.dll

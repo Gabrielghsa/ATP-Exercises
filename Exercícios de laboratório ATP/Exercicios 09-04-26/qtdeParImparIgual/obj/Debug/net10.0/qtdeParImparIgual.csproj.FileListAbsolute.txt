@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\bin\Debug\net10.0\qtdeParImparIgual.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\bin\Debug\net10.0\qtdeParImparIgual.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\bin\Debug\net10.0\qtdeParImparIgual.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\bin\Debug\net10.0\qtdeParImparIgual.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\bin\Debug\net10.0\qtdeParImparIgual.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\obj\Debug\net10.0\qtdeParImparIgual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\obj\Debug\net10.0\qtdeParImparIgual.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\obj\Debug\net10.0\qtdeParImparIgual.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\obj\Debug\net10.0\qtdeParImparIgual.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\obj\Debug\net10.0\qtdeParImparIgual.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\obj\Debug\net10.0\qtdeParImparIgual.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\obj\Debug\net10.0\refint\qtdeParImparIgual.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\obj\Debug\net10.0\qtdeParImparIgual.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\obj\Debug\net10.0\qtdeParImparIgual.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercícios de laboratório ATP\Exercicios 09-04-26\qtdeParImparIgual\obj\Debug\net10.0\ref\qtdeParImparIgual.dll

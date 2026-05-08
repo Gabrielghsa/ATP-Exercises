@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\bin\Debug\net10.0\contaBancaria.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\bin\Debug\net10.0\contaBancaria.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\bin\Debug\net10.0\contaBancaria.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\bin\Debug\net10.0\contaBancaria.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\bin\Debug\net10.0\contaBancaria.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\obj\Debug\net10.0\contaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\obj\Debug\net10.0\contaBancaria.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\obj\Debug\net10.0\contaBancaria.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\obj\Debug\net10.0\contaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\obj\Debug\net10.0\contaBancaria.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\obj\Debug\net10.0\contaBancaria.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\obj\Debug\net10.0\refint\contaBancaria.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\obj\Debug\net10.0\contaBancaria.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\obj\Debug\net10.0\contaBancaria.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\ADS\ATP atividades\Exercicios de repetição\contaBancaria\obj\Debug\net10.0\ref\contaBancaria.dll
