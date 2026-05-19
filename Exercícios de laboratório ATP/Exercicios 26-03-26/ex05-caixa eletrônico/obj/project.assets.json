@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercícios 26-03-26\\ex05-caixa eletrônico\\ex05-caixa eletrônico.csproj",
+      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercicios 26-03-26\\ex05-caixa eletrônico\\ex05-caixa eletrônico.csproj",
       "projectName": "ex05-caixa eletrônico",
-      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercícios 26-03-26\\ex05-caixa eletrônico\\ex05-caixa eletrônico.csproj",
+      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercicios 26-03-26\\ex05-caixa eletrônico\\ex05-caixa eletrônico.csproj",
       "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercícios 26-03-26\\ex05-caixa eletrônico\\obj\\",
+      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercicios 26-03-26\\ex05-caixa eletrônico\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",

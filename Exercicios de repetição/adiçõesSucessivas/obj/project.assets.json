@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercicios de repetição\\adiçõesSucessivas\\adiçõesSucessivas.csproj",
+      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercicios de repetição\\adiçõesSucessivas\\adiçõesSucessivas.csproj",
       "projectName": "adiçõesSucessivas",
-      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercicios de repetição\\adiçõesSucessivas\\adiçõesSucessivas.csproj",
+      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercicios de repetição\\adiçõesSucessivas\\adiçõesSucessivas.csproj",
       "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercicios de repetição\\adiçõesSucessivas\\obj\\",
+      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercicios de repetição\\adiçõesSucessivas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",

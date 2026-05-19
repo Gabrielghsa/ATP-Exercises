@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios iniciais ATP\\Troco\\Troco.csproj": {}
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios iniciais ATP\\Troco\\Troco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios iniciais ATP\\Troco\\Troco.csproj": {
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios iniciais ATP\\Troco\\Troco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios iniciais ATP\\Troco\\Troco.csproj",
+        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios iniciais ATP\\Troco\\Troco.csproj",
         "projectName": "Troco",
-        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios iniciais ATP\\Troco\\Troco.csproj",
+        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios iniciais ATP\\Troco\\Troco.csproj",
         "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios iniciais ATP\\Troco\\obj\\",
+        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios iniciais ATP\\Troco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",

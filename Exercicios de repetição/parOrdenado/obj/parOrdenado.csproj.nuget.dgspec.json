@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercicios de repetição\\parOrdenado\\parOrdenado.csproj": {}
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercicios de repetição\\parOrdenado\\parOrdenado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercicios de repetição\\parOrdenado\\parOrdenado.csproj": {
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercicios de repetição\\parOrdenado\\parOrdenado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercicios de repetição\\parOrdenado\\parOrdenado.csproj",
+        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercicios de repetição\\parOrdenado\\parOrdenado.csproj",
         "projectName": "parOrdenado",
-        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercicios de repetição\\parOrdenado\\parOrdenado.csproj",
+        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercicios de repetição\\parOrdenado\\parOrdenado.csproj",
         "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercicios de repetição\\parOrdenado\\obj\\",
+        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercicios de repetição\\parOrdenado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios dos slides de explicação\\Exercícios loop WHILE\\Raiz\\Raiz.csproj": {}
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios dos slides de explicação\\Exercícios loop WHILE\\Raiz\\Raiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios dos slides de explicação\\Exercícios loop WHILE\\Raiz\\Raiz.csproj": {
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios dos slides de explicação\\Exercícios loop WHILE\\Raiz\\Raiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios dos slides de explicação\\Exercícios loop WHILE\\Raiz\\Raiz.csproj",
+        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios dos slides de explicação\\Exercícios loop WHILE\\Raiz\\Raiz.csproj",
         "projectName": "Raiz",
-        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios dos slides de explicação\\Exercícios loop WHILE\\Raiz\\Raiz.csproj",
+        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios dos slides de explicação\\Exercícios loop WHILE\\Raiz\\Raiz.csproj",
         "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios dos slides de explicação\\Exercícios loop WHILE\\Raiz\\obj\\",
+        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios dos slides de explicação\\Exercícios loop WHILE\\Raiz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",

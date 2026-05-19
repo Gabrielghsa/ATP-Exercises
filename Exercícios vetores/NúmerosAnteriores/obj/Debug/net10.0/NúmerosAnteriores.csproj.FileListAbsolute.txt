@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\bin\Debug\net10.0\NúmerosAnteriores.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\bin\Debug\net10.0\NúmerosAnteriores.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\bin\Debug\net10.0\NúmerosAnteriores.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\bin\Debug\net10.0\NúmerosAnteriores.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\bin\Debug\net10.0\NúmerosAnteriores.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\obj\Debug\net10.0\NúmerosAnteriores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\obj\Debug\net10.0\NúmerosAnteriores.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\obj\Debug\net10.0\NúmerosAnteriores.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\obj\Debug\net10.0\NúmerosAnteriores.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\obj\Debug\net10.0\NúmerosAnteriores.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\obj\Debug\net10.0\NúmerosAnteriores.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\obj\Debug\net10.0\refint\NúmerosAnteriores.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\obj\Debug\net10.0\NúmerosAnteriores.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\obj\Debug\net10.0\NúmerosAnteriores.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmerosAnteriores\obj\Debug\net10.0\ref\NúmerosAnteriores.dll

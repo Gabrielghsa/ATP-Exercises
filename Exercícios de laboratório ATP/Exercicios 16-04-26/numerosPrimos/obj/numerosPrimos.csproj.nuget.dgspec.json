@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercicios 16-04-26\\numerosPrimos\\numerosPrimos.csproj": {}
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercicios 16-04-26\\numerosPrimos\\numerosPrimos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercicios 16-04-26\\numerosPrimos\\numerosPrimos.csproj": {
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercicios 16-04-26\\numerosPrimos\\numerosPrimos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercicios 16-04-26\\numerosPrimos\\numerosPrimos.csproj",
+        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercicios 16-04-26\\numerosPrimos\\numerosPrimos.csproj",
         "projectName": "numerosPrimos",
-        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercicios 16-04-26\\numerosPrimos\\numerosPrimos.csproj",
+        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercicios 16-04-26\\numerosPrimos\\numerosPrimos.csproj",
         "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercicios 16-04-26\\numerosPrimos\\obj\\",
+        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios de laboratório ATP\\Exercicios 16-04-26\\numerosPrimos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",

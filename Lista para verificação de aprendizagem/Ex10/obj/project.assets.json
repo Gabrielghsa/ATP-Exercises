@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Lista para verificação de aprendizagem\\Ex10\\Ex10.csproj",
+      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Lista para verificação de aprendizagem\\Ex10\\Ex10.csproj",
       "projectName": "Ex10",
-      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Lista para verificação de aprendizagem\\Ex10\\Ex10.csproj",
+      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Lista para verificação de aprendizagem\\Ex10\\Ex10.csproj",
       "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Lista para verificação de aprendizagem\\Ex10\\obj\\",
+      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Lista para verificação de aprendizagem\\Ex10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",

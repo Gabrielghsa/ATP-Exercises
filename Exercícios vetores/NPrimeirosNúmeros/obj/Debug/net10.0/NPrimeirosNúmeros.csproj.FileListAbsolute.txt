@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\bin\Debug\net10.0\NPrimeirosNúmeros.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\bin\Debug\net10.0\NPrimeirosNúmeros.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\bin\Debug\net10.0\NPrimeirosNúmeros.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\bin\Debug\net10.0\NPrimeirosNúmeros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\bin\Debug\net10.0\NPrimeirosNúmeros.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\obj\Debug\net10.0\NPrimeirosNúmeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\obj\Debug\net10.0\NPrimeirosNúmeros.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\obj\Debug\net10.0\NPrimeirosNúmeros.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\obj\Debug\net10.0\NPrimeirosNúmeros.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\obj\Debug\net10.0\NPrimeirosNúmeros.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\obj\Debug\net10.0\NPrimeirosNúmeros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\obj\Debug\net10.0\refint\NPrimeirosNúmeros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\obj\Debug\net10.0\NPrimeirosNúmeros.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\obj\Debug\net10.0\NPrimeirosNúmeros.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NPrimeirosNúmeros\obj\Debug\net10.0\ref\NPrimeirosNúmeros.dll

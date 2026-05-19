@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios vetores\\SomaMediaMaior\\SomaMediaMaior.csproj",
+      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios vetores\\SomaMediaMaior\\SomaMediaMaior.csproj",
       "projectName": "SomaMediaMaior",
-      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios vetores\\SomaMediaMaior\\SomaMediaMaior.csproj",
+      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios vetores\\SomaMediaMaior\\SomaMediaMaior.csproj",
       "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Exercícios vetores\\SomaMediaMaior\\obj\\",
+      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios vetores\\SomaMediaMaior\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",

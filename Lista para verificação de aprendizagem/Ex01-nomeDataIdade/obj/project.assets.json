@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Lista para verificação de aprendizagem\\Ex01-nomeDataIdade\\Ex01-nomeDataIdade.csproj",
+      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Lista para verificação de aprendizagem\\Ex01-nomeDataIdade\\Ex01-nomeDataIdade.csproj",
       "projectName": "Ex01-nomeDataIdade",
-      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Lista para verificação de aprendizagem\\Ex01-nomeDataIdade\\Ex01-nomeDataIdade.csproj",
+      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Lista para verificação de aprendizagem\\Ex01-nomeDataIdade\\Ex01-nomeDataIdade.csproj",
       "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\ADS\\ATP atividades\\Lista para verificação de aprendizagem\\Ex01-nomeDataIdade\\obj\\",
+      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Lista para verificação de aprendizagem\\Ex01-nomeDataIdade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",

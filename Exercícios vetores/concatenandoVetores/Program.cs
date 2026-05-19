@@ -3,7 +3,9 @@
 int[] v1 = {1, 2, 3, 4, 5};
 int[] v2 = {6, 7, 8, 9, 10};
 int[] v3 = v1.Concat(v2).ToArray();
-Console.Write(string.Join(", ", v3));
+Console.Write(string.Join(", ", v3)); 
+
+//----------------------------------------
 
 //Utilizando repetições
 int[] nums1 = {11, 12, 13, 14, 15};

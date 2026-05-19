@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\obj\Debug\net10.0\MostrandoElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\obj\Debug\net10.0\MostrandoElementos.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\obj\Debug\net10.0\MostrandoElementos.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\obj\Debug\net10.0\MostrandoElementos.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\obj\Debug\net10.0\MostrandoElementos.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\bin\Debug\net10.0\MostrandoElementos.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\bin\Debug\net10.0\MostrandoElementos.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\bin\Debug\net10.0\MostrandoElementos.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\bin\Debug\net10.0\MostrandoElementos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\bin\Debug\net10.0\MostrandoElementos.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\obj\Debug\net10.0\MostrandoElementos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\obj\Debug\net10.0\refint\MostrandoElementos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\obj\Debug\net10.0\MostrandoElementos.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\obj\Debug\net10.0\MostrandoElementos.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MostrandoElementos\obj\Debug\net10.0\ref\MostrandoElementos.dll

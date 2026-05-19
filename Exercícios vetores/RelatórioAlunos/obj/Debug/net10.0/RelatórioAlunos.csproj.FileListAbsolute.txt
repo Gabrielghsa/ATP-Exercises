@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\obj\Debug\net10.0\RelatórioAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\obj\Debug\net10.0\RelatórioAlunos.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\obj\Debug\net10.0\RelatórioAlunos.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\obj\Debug\net10.0\RelatórioAlunos.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\obj\Debug\net10.0\RelatórioAlunos.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\bin\Debug\net10.0\RelatórioAlunos.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\bin\Debug\net10.0\RelatórioAlunos.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\bin\Debug\net10.0\RelatórioAlunos.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\bin\Debug\net10.0\RelatórioAlunos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\bin\Debug\net10.0\RelatórioAlunos.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\obj\Debug\net10.0\RelatórioAlunos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\obj\Debug\net10.0\refint\RelatórioAlunos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\obj\Debug\net10.0\RelatórioAlunos.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\obj\Debug\net10.0\RelatórioAlunos.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RelatórioAlunos\obj\Debug\net10.0\ref\RelatórioAlunos.dll

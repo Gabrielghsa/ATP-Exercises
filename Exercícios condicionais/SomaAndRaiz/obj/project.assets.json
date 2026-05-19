@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghass\\Exercícios condicionais ATP\\SomaAndRaiz\\SomaAndRaiz.csproj",
+      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios condicionais\\SomaAndRaiz\\SomaAndRaiz.csproj",
       "projectName": "SomaAndRaiz",
-      "projectPath": "C:\\Users\\ghass\\Exercícios condicionais ATP\\SomaAndRaiz\\SomaAndRaiz.csproj",
+      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios condicionais\\SomaAndRaiz\\SomaAndRaiz.csproj",
       "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghass\\Exercícios condicionais ATP\\SomaAndRaiz\\obj\\",
+      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios condicionais\\SomaAndRaiz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",

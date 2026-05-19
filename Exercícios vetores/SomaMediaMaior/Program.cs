@@ -3,7 +3,6 @@ int n, soma = 0, qtdAcimaMed = 0;
 double media;
 int[] v, numAcima;
 
-
 Console.Write("Informe a quantidade de números que serão calculados: ");
 n = int.Parse(Console.ReadLine());
 

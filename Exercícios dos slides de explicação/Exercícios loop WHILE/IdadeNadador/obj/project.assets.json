@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghass\\Exercícios condicionais ATP\\IdadeNadador\\IdadeNadador.csproj",
+      "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios dos slides de explicação\\Exercícios loop WHILE\\IdadeNadador\\IdadeNadador.csproj",
       "projectName": "IdadeNadador",
-      "projectPath": "C:\\Users\\ghass\\Exercícios condicionais ATP\\IdadeNadador\\IdadeNadador.csproj",
+      "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios dos slides de explicação\\Exercícios loop WHILE\\IdadeNadador\\IdadeNadador.csproj",
       "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghass\\Exercícios condicionais ATP\\IdadeNadador\\obj\\",
+      "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios dos slides de explicação\\Exercícios loop WHILE\\IdadeNadador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",

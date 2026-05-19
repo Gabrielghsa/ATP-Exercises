@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\bin\Debug\net10.0\contandoNúmeros.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\bin\Debug\net10.0\contandoNúmeros.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\bin\Debug\net10.0\contandoNúmeros.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\bin\Debug\net10.0\contandoNúmeros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\bin\Debug\net10.0\contandoNúmeros.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\obj\Debug\net10.0\contandoNúmeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\obj\Debug\net10.0\contandoNúmeros.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\obj\Debug\net10.0\contandoNúmeros.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\obj\Debug\net10.0\contandoNúmeros.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\obj\Debug\net10.0\contandoNúmeros.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\obj\Debug\net10.0\contandoNúmeros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\obj\Debug\net10.0\refint\contandoNúmeros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\obj\Debug\net10.0\contandoNúmeros.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\obj\Debug\net10.0\contandoNúmeros.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\contandoNúmeros\obj\Debug\net10.0\ref\contandoNúmeros.dll
