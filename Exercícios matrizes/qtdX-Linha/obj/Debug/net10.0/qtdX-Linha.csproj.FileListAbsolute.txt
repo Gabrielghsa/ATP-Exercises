@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\obj\Debug\net10.0\qtdX-Linha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\obj\Debug\net10.0\qtdX-Linha.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\obj\Debug\net10.0\qtdX-Linha.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\obj\Debug\net10.0\qtdX-Linha.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\obj\Debug\net10.0\qtdX-Linha.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\bin\Debug\net10.0\qtdX-Linha.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\bin\Debug\net10.0\qtdX-Linha.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\bin\Debug\net10.0\qtdX-Linha.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\bin\Debug\net10.0\qtdX-Linha.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\bin\Debug\net10.0\qtdX-Linha.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\obj\Debug\net10.0\qtdX-Linha.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\obj\Debug\net10.0\refint\qtdX-Linha.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\obj\Debug\net10.0\qtdX-Linha.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\obj\Debug\net10.0\qtdX-Linha.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\qtdX-Linha\obj\Debug\net10.0\ref\qtdX-Linha.dll

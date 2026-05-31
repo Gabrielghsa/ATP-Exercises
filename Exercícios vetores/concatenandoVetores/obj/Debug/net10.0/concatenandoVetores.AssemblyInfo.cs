@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("concatenandoVetores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6d00c86a388aeb3f93332eaf63c976f1a324f0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a177d19d3df315c4177732ca8e58f6fb1dcf52f")]
 [assembly: System.Reflection.AssemblyProductAttribute("concatenandoVetores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("concatenandoVetores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

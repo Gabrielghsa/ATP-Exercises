@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\bin\Debug\net10.0\Preenchendo e somando matriz.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\bin\Debug\net10.0\Preenchendo e somando matriz.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\bin\Debug\net10.0\Preenchendo e somando matriz.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\bin\Debug\net10.0\Preenchendo e somando matriz.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\bin\Debug\net10.0\Preenchendo e somando matriz.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\obj\Debug\net10.0\Preenchendo e somando matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\obj\Debug\net10.0\Preenchendo e somando matriz.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\obj\Debug\net10.0\Preenchendo e somando matriz.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\obj\Debug\net10.0\Preenchendo e somando matriz.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\obj\Debug\net10.0\Preenchendo e somando matriz.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\obj\Debug\net10.0\Preenchendo e somando matriz.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\obj\Debug\net10.0\refint\Preenchendo e somando matriz.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\obj\Debug\net10.0\Preenchendo e somando matriz.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\obj\Debug\net10.0\Preenchendo e somando matriz.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Preenchendo e somando matriz\obj\Debug\net10.0\ref\Preenchendo e somando matriz.dll

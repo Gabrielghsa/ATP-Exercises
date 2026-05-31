@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\bin\Debug\net10.0\Somando elementos e diagonais.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\bin\Debug\net10.0\Somando elementos e diagonais.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\bin\Debug\net10.0\Somando elementos e diagonais.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\bin\Debug\net10.0\Somando elementos e diagonais.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\bin\Debug\net10.0\Somando elementos e diagonais.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\obj\Debug\net10.0\Somando elementos e diagonais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\obj\Debug\net10.0\Somando elementos e diagonais.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\obj\Debug\net10.0\Somando elementos e diagonais.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\obj\Debug\net10.0\Somando elementos e diagonais.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\obj\Debug\net10.0\Somando elementos e diagonais.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\obj\Debug\net10.0\Somando elementos e diagonais.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\obj\Debug\net10.0\refint\Somando elementos e diagonais.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\obj\Debug\net10.0\Somando elementos e diagonais.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\obj\Debug\net10.0\Somando elementos e diagonais.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\Somando elementos e diagonais\obj\Debug\net10.0\ref\Somando elementos e diagonais.dll

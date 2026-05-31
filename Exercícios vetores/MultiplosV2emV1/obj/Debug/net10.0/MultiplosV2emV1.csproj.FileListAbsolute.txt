@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\bin\Debug\net10.0\MultiplosV2emV1.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\bin\Debug\net10.0\MultiplosV2emV1.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\bin\Debug\net10.0\MultiplosV2emV1.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\bin\Debug\net10.0\MultiplosV2emV1.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\bin\Debug\net10.0\MultiplosV2emV1.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\obj\Debug\net10.0\MultiplosV2emV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\obj\Debug\net10.0\MultiplosV2emV1.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\obj\Debug\net10.0\MultiplosV2emV1.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\obj\Debug\net10.0\MultiplosV2emV1.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\obj\Debug\net10.0\MultiplosV2emV1.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\obj\Debug\net10.0\MultiplosV2emV1.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\obj\Debug\net10.0\refint\MultiplosV2emV1.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\obj\Debug\net10.0\MultiplosV2emV1.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\obj\Debug\net10.0\MultiplosV2emV1.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\MultiplosV2emV1\obj\Debug\net10.0\ref\MultiplosV2emV1.dll

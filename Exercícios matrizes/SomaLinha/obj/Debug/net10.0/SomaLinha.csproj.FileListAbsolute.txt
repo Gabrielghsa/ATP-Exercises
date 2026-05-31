@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\bin\Debug\net10.0\SomaLinha.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\bin\Debug\net10.0\SomaLinha.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\bin\Debug\net10.0\SomaLinha.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\bin\Debug\net10.0\SomaLinha.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\bin\Debug\net10.0\SomaLinha.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\obj\Debug\net10.0\SomaLinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\obj\Debug\net10.0\SomaLinha.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\obj\Debug\net10.0\SomaLinha.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\obj\Debug\net10.0\SomaLinha.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\obj\Debug\net10.0\SomaLinha.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\obj\Debug\net10.0\SomaLinha.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\obj\Debug\net10.0\refint\SomaLinha.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\obj\Debug\net10.0\SomaLinha.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\obj\Debug\net10.0\SomaLinha.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaLinha\obj\Debug\net10.0\ref\SomaLinha.dll

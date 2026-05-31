@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\bin\Debug\net10.0\SomaDiagonais.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\bin\Debug\net10.0\SomaDiagonais.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\bin\Debug\net10.0\SomaDiagonais.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\bin\Debug\net10.0\SomaDiagonais.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\bin\Debug\net10.0\SomaDiagonais.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\obj\Debug\net10.0\SomaDiagonais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\obj\Debug\net10.0\SomaDiagonais.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\obj\Debug\net10.0\SomaDiagonais.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\obj\Debug\net10.0\SomaDiagonais.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\obj\Debug\net10.0\SomaDiagonais.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\obj\Debug\net10.0\SomaDiagonais.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\obj\Debug\net10.0\refint\SomaDiagonais.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\obj\Debug\net10.0\SomaDiagonais.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\obj\Debug\net10.0\SomaDiagonais.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\SomaDiagonais\obj\Debug\net10.0\ref\SomaDiagonais.dll
