@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\bin\Debug\net10.0\VetorPar-Ímpar.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\bin\Debug\net10.0\VetorPar-Ímpar.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\bin\Debug\net10.0\VetorPar-Ímpar.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\bin\Debug\net10.0\VetorPar-Ímpar.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\bin\Debug\net10.0\VetorPar-Ímpar.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\obj\Debug\net10.0\VetorPar-Ímpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\obj\Debug\net10.0\VetorPar-Ímpar.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\obj\Debug\net10.0\VetorPar-Ímpar.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\obj\Debug\net10.0\VetorPar-Ímpar.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\obj\Debug\net10.0\VetorPar-Ímpar.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\obj\Debug\net10.0\VetorPar-Ímpar.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\obj\Debug\net10.0\refint\VetorPar-Ímpar.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\obj\Debug\net10.0\VetorPar-Ímpar.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\obj\Debug\net10.0\VetorPar-Ímpar.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\VetorPar-Ímpar\obj\Debug\net10.0\ref\VetorPar-Ímpar.dll
