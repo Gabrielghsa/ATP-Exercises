@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\bin\Debug\net10.0\somaInteiros.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\bin\Debug\net10.0\somaInteiros.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\bin\Debug\net10.0\somaInteiros.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\bin\Debug\net10.0\somaInteiros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\bin\Debug\net10.0\somaInteiros.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\obj\Debug\net10.0\somaInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\obj\Debug\net10.0\somaInteiros.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\obj\Debug\net10.0\somaInteiros.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\obj\Debug\net10.0\somaInteiros.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\obj\Debug\net10.0\somaInteiros.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\obj\Debug\net10.0\somaInteiros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\obj\Debug\net10.0\refint\somaInteiros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\obj\Debug\net10.0\somaInteiros.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\obj\Debug\net10.0\somaInteiros.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\somaInteiros\obj\Debug\net10.0\ref\somaInteiros.dll

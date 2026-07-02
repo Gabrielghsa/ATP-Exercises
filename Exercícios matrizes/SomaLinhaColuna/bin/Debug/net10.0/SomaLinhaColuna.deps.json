@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SomaLinhaColuna/1.0.0": {
+        "runtime": {
+          "SomaLinhaColuna.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SomaLinhaColuna/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

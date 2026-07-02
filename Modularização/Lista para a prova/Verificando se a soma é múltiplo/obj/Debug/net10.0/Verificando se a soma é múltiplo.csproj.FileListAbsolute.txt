@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\bin\Debug\net10.0\Verificando se a soma é múltiplo.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\bin\Debug\net10.0\Verificando se a soma é múltiplo.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\bin\Debug\net10.0\Verificando se a soma é múltiplo.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\bin\Debug\net10.0\Verificando se a soma é múltiplo.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\bin\Debug\net10.0\Verificando se a soma é múltiplo.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\obj\Debug\net10.0\Verificando se a soma é múltiplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\obj\Debug\net10.0\Verificando se a soma é múltiplo.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\obj\Debug\net10.0\Verificando se a soma é múltiplo.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\obj\Debug\net10.0\Verificando se a soma é múltiplo.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\obj\Debug\net10.0\Verificando se a soma é múltiplo.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\obj\Debug\net10.0\Verificando se a soma é múltiplo.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\obj\Debug\net10.0\refint\Verificando se a soma é múltiplo.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\obj\Debug\net10.0\Verificando se a soma é múltiplo.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\obj\Debug\net10.0\Verificando se a soma é múltiplo.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Verificando se a soma é múltiplo\obj\Debug\net10.0\ref\Verificando se a soma é múltiplo.dll

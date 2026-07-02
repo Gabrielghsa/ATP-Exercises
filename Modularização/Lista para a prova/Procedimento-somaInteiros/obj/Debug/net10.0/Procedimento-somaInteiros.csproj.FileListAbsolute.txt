@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\bin\Debug\net10.0\Procedimento-somaInteiros.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\bin\Debug\net10.0\Procedimento-somaInteiros.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\bin\Debug\net10.0\Procedimento-somaInteiros.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\bin\Debug\net10.0\Procedimento-somaInteiros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\bin\Debug\net10.0\Procedimento-somaInteiros.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\obj\Debug\net10.0\Procedimento-somaInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\obj\Debug\net10.0\Procedimento-somaInteiros.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\obj\Debug\net10.0\Procedimento-somaInteiros.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\obj\Debug\net10.0\Procedimento-somaInteiros.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\obj\Debug\net10.0\Procedimento-somaInteiros.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\obj\Debug\net10.0\Procedimento-somaInteiros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\obj\Debug\net10.0\refint\Procedimento-somaInteiros.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\obj\Debug\net10.0\Procedimento-somaInteiros.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\obj\Debug\net10.0\Procedimento-somaInteiros.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Procedimento-somaInteiros\obj\Debug\net10.0\ref\Procedimento-somaInteiros.dll

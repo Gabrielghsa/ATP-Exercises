@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\bin\Debug\net10.0\RaizSobreQuadrado.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\bin\Debug\net10.0\RaizSobreQuadrado.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\bin\Debug\net10.0\RaizSobreQuadrado.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\bin\Debug\net10.0\RaizSobreQuadrado.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\bin\Debug\net10.0\RaizSobreQuadrado.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\obj\Debug\net10.0\RaizSobreQuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\obj\Debug\net10.0\RaizSobreQuadrado.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\obj\Debug\net10.0\RaizSobreQuadrado.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\obj\Debug\net10.0\RaizSobreQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\obj\Debug\net10.0\RaizSobreQuadrado.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\obj\Debug\net10.0\RaizSobreQuadrado.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\obj\Debug\net10.0\refint\RaizSobreQuadrado.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\obj\Debug\net10.0\RaizSobreQuadrado.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\obj\Debug\net10.0\RaizSobreQuadrado.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\RaizSobreQuadrado\obj\Debug\net10.0\ref\RaizSobreQuadrado.dll

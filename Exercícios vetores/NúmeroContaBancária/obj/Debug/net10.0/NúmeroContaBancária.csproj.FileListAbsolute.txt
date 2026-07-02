@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\bin\Debug\net10.0\NúmeroContaBancária.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\bin\Debug\net10.0\NúmeroContaBancária.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\bin\Debug\net10.0\NúmeroContaBancária.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\bin\Debug\net10.0\NúmeroContaBancária.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\bin\Debug\net10.0\NúmeroContaBancária.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\obj\Debug\net10.0\NúmeroContaBancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\obj\Debug\net10.0\NúmeroContaBancária.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\obj\Debug\net10.0\NúmeroContaBancária.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\obj\Debug\net10.0\NúmeroContaBancária.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\obj\Debug\net10.0\NúmeroContaBancária.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\obj\Debug\net10.0\NúmeroContaBancária.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\obj\Debug\net10.0\refint\NúmeroContaBancária.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\obj\Debug\net10.0\NúmeroContaBancária.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\obj\Debug\net10.0\NúmeroContaBancária.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\NúmeroContaBancária\obj\Debug\net10.0\ref\NúmeroContaBancária.dll

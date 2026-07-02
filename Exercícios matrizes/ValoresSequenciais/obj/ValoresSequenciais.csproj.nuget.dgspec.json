@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios matrizes\\ValoresSequenciais\\ValoresSequenciais.csproj": {}
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios matrizes\\ValoresSequenciais\\ValoresSequenciais.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios matrizes\\ValoresSequenciais\\ValoresSequenciais.csproj": {
+    "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios matrizes\\ValoresSequenciais\\ValoresSequenciais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios matrizes\\ValoresSequenciais\\ValoresSequenciais.csproj",
+        "projectUniqueName": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios matrizes\\ValoresSequenciais\\ValoresSequenciais.csproj",
         "projectName": "ValoresSequenciais",
-        "projectPath": "c:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios matrizes\\ValoresSequenciais\\ValoresSequenciais.csproj",
+        "projectPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios matrizes\\ValoresSequenciais\\ValoresSequenciais.csproj",
         "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios matrizes\\ValoresSequenciais\\obj\\",
+        "outputPath": "C:\\Users\\ghass\\OneDrive\\Área de Trabalho\\Pastas-ADS\\ADS\\ATP atividades\\Exercícios matrizes\\ValoresSequenciais\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",

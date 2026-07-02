@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\bin\Debug\net10.0\valorIMC.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\bin\Debug\net10.0\valorIMC.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\bin\Debug\net10.0\valorIMC.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\bin\Debug\net10.0\valorIMC.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\bin\Debug\net10.0\valorIMC.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\obj\Debug\net10.0\valorIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\obj\Debug\net10.0\valorIMC.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\obj\Debug\net10.0\valorIMC.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\obj\Debug\net10.0\valorIMC.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\obj\Debug\net10.0\valorIMC.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\obj\Debug\net10.0\valorIMC.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\obj\Debug\net10.0\refint\valorIMC.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\obj\Debug\net10.0\valorIMC.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\obj\Debug\net10.0\valorIMC.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\valorIMC\obj\Debug\net10.0\ref\valorIMC.dll

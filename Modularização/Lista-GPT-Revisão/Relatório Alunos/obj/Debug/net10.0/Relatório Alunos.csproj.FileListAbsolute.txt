@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\bin\Debug\net10.0\Relatório Alunos.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\bin\Debug\net10.0\Relatório Alunos.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\bin\Debug\net10.0\Relatório Alunos.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\bin\Debug\net10.0\Relatório Alunos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\bin\Debug\net10.0\Relatório Alunos.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\obj\Debug\net10.0\Relatório Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\obj\Debug\net10.0\Relatório Alunos.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\obj\Debug\net10.0\Relatório Alunos.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\obj\Debug\net10.0\Relatório Alunos.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\obj\Debug\net10.0\Relatório Alunos.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\obj\Debug\net10.0\Relatório Alunos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\obj\Debug\net10.0\refint\Relatório Alunos.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\obj\Debug\net10.0\Relatório Alunos.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\obj\Debug\net10.0\Relatório Alunos.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista-GPT-Revisão\Relatório Alunos\obj\Debug\net10.0\ref\Relatório Alunos.dll

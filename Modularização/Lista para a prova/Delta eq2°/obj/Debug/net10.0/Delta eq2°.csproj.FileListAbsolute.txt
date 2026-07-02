@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\bin\Debug\net10.0\Delta eq2°.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\bin\Debug\net10.0\Delta eq2°.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\bin\Debug\net10.0\Delta eq2°.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\bin\Debug\net10.0\Delta eq2°.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\bin\Debug\net10.0\Delta eq2°.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\obj\Debug\net10.0\Delta eq2°.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\obj\Debug\net10.0\Delta eq2°.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\obj\Debug\net10.0\Delta eq2°.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\obj\Debug\net10.0\Delta eq2°.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\obj\Debug\net10.0\Delta eq2°.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\obj\Debug\net10.0\Delta eq2°.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\obj\Debug\net10.0\refint\Delta eq2°.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\obj\Debug\net10.0\Delta eq2°.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\obj\Debug\net10.0\Delta eq2°.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\Delta eq2°\obj\Debug\net10.0\ref\Delta eq2°.dll

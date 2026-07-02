@@ -1,0 +1,12 @@
+=====RELATÓRIO=====
+Aluno: Macrebinho
+Média: 8,40
+Situação: Aprovado
+=====RELATÓRIO=====
+Aluno: Macrebinha
+Média: 8,80
+Situação: Aprovado
+=====RELATÓRIO=====
+Aluno: Macrebilson
+Média: 6,70
+Situação: Recuperação

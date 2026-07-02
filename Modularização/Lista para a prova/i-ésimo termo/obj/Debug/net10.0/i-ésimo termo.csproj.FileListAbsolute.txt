@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\bin\Debug\net10.0\i-ésimo termo.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\bin\Debug\net10.0\i-ésimo termo.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\bin\Debug\net10.0\i-ésimo termo.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\bin\Debug\net10.0\i-ésimo termo.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\bin\Debug\net10.0\i-ésimo termo.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\obj\Debug\net10.0\i-ésimo termo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\obj\Debug\net10.0\i-ésimo termo.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\obj\Debug\net10.0\i-ésimo termo.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\obj\Debug\net10.0\i-ésimo termo.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\obj\Debug\net10.0\i-ésimo termo.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\obj\Debug\net10.0\i-ésimo termo.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\obj\Debug\net10.0\refint\i-ésimo termo.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\obj\Debug\net10.0\i-ésimo termo.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\obj\Debug\net10.0\i-ésimo termo.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Modularização\Lista para a prova\i-ésimo termo\obj\Debug\net10.0\ref\i-ésimo termo.dll

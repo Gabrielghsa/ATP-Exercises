@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ÁreaRetângulo/1.0.0": {
+        "runtime": {
+          "ÁreaRetângulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ÁreaRetângulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

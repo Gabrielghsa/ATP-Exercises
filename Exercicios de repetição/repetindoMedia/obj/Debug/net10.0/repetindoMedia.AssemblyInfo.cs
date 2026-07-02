@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("repetindoMedia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a177d19d3df315c4177732ca8e58f6fb1dcf52f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+511e515ea7e388f1e51b240b30cf1f92dd7b3c6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("repetindoMedia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("repetindoMedia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

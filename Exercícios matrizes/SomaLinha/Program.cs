@@ -9,10 +9,10 @@ n = int.Parse(Console.ReadLine());
 matriz = new int[m,n];
 
 
-for(linha = 0; linha < m; linha++)
+for(linha = 0; linha < matriz.GetLength(0); linha++)
     
 {
-    for(coluna = 0; coluna < n; coluna++)
+    for(coluna = 0; coluna < matriz.GetLength(1); coluna++)
     {
         Console.Write($"Informe o número da posição {linha},{coluna}°: ");
         matriz[linha,coluna] = int.Parse(Console.ReadLine());
@@ -21,10 +21,10 @@ for(linha = 0; linha < m; linha++)
 resSomaLinha = new int[m];
 mediaLinha = new double[m];
 
-for(linha = 0; linha < m; linha++)
+for(linha = 0; linha < matriz.GetLength(0); linha++)
 {
     somaLinha = 0;
-    for(coluna = 0; coluna < n; coluna++)
+    for(coluna = 0; coluna < matriz.GetLength(1); coluna++)
     {
         somaLinha = somaLinha + matriz[linha,coluna];
         Console.Write(matriz[linha, coluna].ToString().PadLeft(4));

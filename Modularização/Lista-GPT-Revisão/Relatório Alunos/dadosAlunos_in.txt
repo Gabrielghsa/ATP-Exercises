@@ -1,0 +1,12 @@
+Macrebinho
+9,7
+8,7
+6,8
+Macrebinha
+8,9
+9,0
+8,5
+Macrebilson
+5,9
+4,2
+10

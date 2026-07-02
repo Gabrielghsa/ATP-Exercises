@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\bin\Debug\net10.0\OcorrênciaMaiorValor.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\bin\Debug\net10.0\OcorrênciaMaiorValor.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\bin\Debug\net10.0\OcorrênciaMaiorValor.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\bin\Debug\net10.0\OcorrênciaMaiorValor.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\bin\Debug\net10.0\OcorrênciaMaiorValor.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\obj\Debug\net10.0\OcorrênciaMaiorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\obj\Debug\net10.0\OcorrênciaMaiorValor.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\obj\Debug\net10.0\OcorrênciaMaiorValor.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\obj\Debug\net10.0\OcorrênciaMaiorValor.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\obj\Debug\net10.0\OcorrênciaMaiorValor.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\obj\Debug\net10.0\OcorrênciaMaiorValor.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\obj\Debug\net10.0\refint\OcorrênciaMaiorValor.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\obj\Debug\net10.0\OcorrênciaMaiorValor.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\obj\Debug\net10.0\OcorrênciaMaiorValor.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios vetores\OcorrênciaMaiorValor\obj\Debug\net10.0\ref\OcorrênciaMaiorValor.dll

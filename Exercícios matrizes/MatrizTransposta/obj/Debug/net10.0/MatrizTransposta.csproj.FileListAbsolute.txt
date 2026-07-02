@@ -1,0 +1,15 @@
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\bin\Debug\net10.0\MatrizTransposta.exe
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\bin\Debug\net10.0\MatrizTransposta.deps.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\bin\Debug\net10.0\MatrizTransposta.runtimeconfig.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\bin\Debug\net10.0\MatrizTransposta.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\bin\Debug\net10.0\MatrizTransposta.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\obj\Debug\net10.0\MatrizTransposta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\obj\Debug\net10.0\MatrizTransposta.AssemblyInfoInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\obj\Debug\net10.0\MatrizTransposta.AssemblyInfo.cs
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\obj\Debug\net10.0\MatrizTransposta.csproj.CoreCompileInputs.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\obj\Debug\net10.0\MatrizTransposta.sourcelink.json
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\obj\Debug\net10.0\MatrizTransposta.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\obj\Debug\net10.0\refint\MatrizTransposta.dll
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\obj\Debug\net10.0\MatrizTransposta.pdb
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\obj\Debug\net10.0\MatrizTransposta.genruntimeconfig.cache
+C:\Users\ghass\OneDrive\Área de Trabalho\Pastas-ADS\ADS\ATP atividades\Exercícios matrizes\MatrizTransposta\obj\Debug\net10.0\ref\MatrizTransposta.dll
