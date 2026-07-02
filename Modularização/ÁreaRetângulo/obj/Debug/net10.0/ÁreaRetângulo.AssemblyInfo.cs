@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ÁreaRetângulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+511e515ea7e388f1e51b240b30cf1f92dd7b3c6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9c6b6ab5018218a82efcb5603f23cd25738c9eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ÁreaRetângulo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ÁreaRetângulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
